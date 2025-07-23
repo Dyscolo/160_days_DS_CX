@@ -2,6 +2,7 @@
 
 Aquí estará todo mi progreso en este reto personal.
 
-Cada día se verá reflejado en un notebook con ejercicios aplicados.
+Cada día se verá reflejado en un notebook con ejercicios aplicados y una bitácora actualizada. :)
 
 Dia 1: Sintaxis de Python.
+Dia 2: GitHub en línea!
