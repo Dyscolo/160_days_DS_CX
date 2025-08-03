@@ -6,4 +6,5 @@ Cada día se verá reflejado en un notebook con ejercicios aplicados y una bitá
 
 Dia 1: Sintaxis de Python. </br>
 Dia 2: GitHub en línea!</br>
-Dia 3: Practica de NPS con Polars.
+Dia 3: Practica de NPS con Polars.</br>
+Día 4: EDA a set de datos.
